@@ -32,3 +32,10 @@ Key stages:
 
 Note: The trained RandomForest model (.pkl) is not included in this repository due to GitHub's file size limitations. Please train the model using the provided notebook.
 
+-------
+Screenshort of the app
+
+![App Screenshort](selectionpage.png)
+![forecast table](screenshot-1746361214873.png)
+![plot](newplot%20(2).png)
+
