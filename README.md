@@ -33,7 +33,8 @@ Key stages:
 Note: The trained RandomForest model (.pkl) is not included in this repository due to GitHub's file size limitations. Please train the model using the provided notebook.
 
 -------
-Screenshort of the app
+**Screenshort of the app**
+*NOTE: The data is for the year 2013 to 2017 that why the model is predicting for the next 7 days of 2018.*
 
 ![App Screenshort](selectionpage.png)
 ![forecast table](screenshot-1746361214873.png)
