@@ -1,0 +1,14 @@
+python==3.13
+
+# Core libraries
+streamlit
+pandas
+numpy
+scikit-learn
+plotly
+holidays
+joblib
+
+# For LSTM (TensorFlow-based)
+tensorflow
+matplotlib
